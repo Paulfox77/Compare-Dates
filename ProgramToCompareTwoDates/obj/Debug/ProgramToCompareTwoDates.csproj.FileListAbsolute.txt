@@ -1,0 +1,6 @@
+c:\users\joseph\documents\visual studio 2015\Projects\ProgramToCompareTwoDates\ProgramToCompareTwoDates\bin\Debug\ProgramToCompareTwoDates.exe.config
+c:\users\joseph\documents\visual studio 2015\Projects\ProgramToCompareTwoDates\ProgramToCompareTwoDates\bin\Debug\ProgramToCompareTwoDates.exe
+c:\users\joseph\documents\visual studio 2015\Projects\ProgramToCompareTwoDates\ProgramToCompareTwoDates\bin\Debug\ProgramToCompareTwoDates.pdb
+c:\users\joseph\documents\visual studio 2015\Projects\ProgramToCompareTwoDates\ProgramToCompareTwoDates\obj\Debug\ProgramToCompareTwoDates.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2015\Projects\ProgramToCompareTwoDates\ProgramToCompareTwoDates\obj\Debug\ProgramToCompareTwoDates.exe
+c:\users\joseph\documents\visual studio 2015\Projects\ProgramToCompareTwoDates\ProgramToCompareTwoDates\obj\Debug\ProgramToCompareTwoDates.pdb
